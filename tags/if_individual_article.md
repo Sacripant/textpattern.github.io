@@ -59,7 +59,7 @@ This tag has no attributes.
 
 <txp:if_article_list>
     <p>
-        <txp:olde>
+        <txp:older>
             Previous
         </txp:older>
         <txp:newer>
